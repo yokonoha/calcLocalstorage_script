@@ -1,5 +1,5 @@
 # calcLocalstorage_script
-[ジャンクscript] CaffeineAppsにて使用したcalcls単品  
+[J] CaffeineAppsにて使用したcalcls単品  
 ## What is this?  
 LocalStorageの利用可能残量を推測して表示するスクリプトです。 ここのリポジトリからこのスクリプトを入手する場合はMITライセンスが適用されます。(CaffeineAppsのリポジトリでは横茶横葉Bライセンス)  
 ```test.html
