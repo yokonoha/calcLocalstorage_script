@@ -5,6 +5,8 @@ LocalStorageの利用可能残量を推測して表示するスクリプトで�
 ## 画像で実装例を見る  
 <img src="./zenmeyang.png" width="40%"/>  
 
+テーマはFSLinear使用  
+## 実装用コード
 ```test.html
         <div class="A" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;" id="datausagecontainer">
             <progress id="datausagebar" value="0" max="100" style="width: 100%;"></progress>
