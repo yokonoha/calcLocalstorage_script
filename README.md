@@ -1,0 +1,2 @@
+# calcLocalstorage_script
+CaffeineAppsにて使用したcalcls単品
