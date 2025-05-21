@@ -2,6 +2,7 @@
 [J] CaffeineAppsにて使用したcalcls単品  
 ## What is this?  
 LocalStorageの利用可能残量を推測して表示するスクリプトです。 ここのリポジトリからこのスクリプトを入手する場合はMITライセンスが適用されます。(CaffeineAppsのリポジトリでは横茶横葉Bライセンス)  
+正確性は全く保証できないのでジャンクなコードです  
 ## 画像で実装例を見る  
 <img src="./zenmeyang.png" width="40%"/>  
 
